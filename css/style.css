@@ -1,0 +1,23 @@
+.features-item1 {
+width: 400px;
+height: 256px;
+background-color: #81b3d2;
+background-position:840px 1366px;
+float:left;
+}
+.features-item2{
+  width: 400px;
+  height: 256px;
+  background-color: #81b3d2;
+  float:left;
+  }
+
+.layer-13{
+  width: 800px;
+  height: 401px;
+  float:left;
+}
+
+.layer14{
+float:right;
+}
